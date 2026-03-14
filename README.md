@@ -18,7 +18,7 @@ A fully deterministic, zero-API fraud detection pipeline that ingests a 1000-pag
 | **Penalty** | −37.5 |
 | **Submitted** | 14 Mar 2026, 05:50 PM |
 
-**Evil category: perfect score (100/100).** The deterministic SQL approach eliminated false positives on the highest-value needles. Missed points were in Easy (22/40) and Medium (54/60) categories.
+**Evil category: perfect score (100/100).** The deterministic SQL approach did detect all of the Evil category needles, but it also gave few false positives, hence the penalty. Missed few points in Easy (22/40) and Medium (54/60) categories as well.
 
 > Top score overall: 753.8 (team Assassin, 195/200 needles, 0 penalty)
 
