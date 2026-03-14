@@ -1,10 +1,26 @@
 # Financial Gauntlet — Fraud Detection Pipeline
 
-**Team:** `baby_sharks` | **HyperAPI Hackathon 2026**
+**Team:** `baby_sharks_v99` | **HyperAPI Hackathon 2026** | Mar 14, 2026 · JBR Techpark, Whitefield
 
 A fully deterministic, zero-API fraud detection pipeline that ingests a 1000-page financial PDF (`gauntlet.pdf`), structures it into a SQLite database, and detects 20 categories of financial inconsistencies ("needles") via SQL queries.
 
-**Final result: 187 findings, confirmed score ~899 pts (100% DB validation pass rate).**
+## Final Leaderboard Result
+
+| Metric | Value |
+|---|---|
+| **Rank** | 🥈 #2 of 54 teams |
+| **Score** | **648.68** / 920 max |
+| **Accuracy** | 70.5% |
+| **Needles detected** | 176 / 200 |
+| **Easy** | 22 / 40 (17.8 pts) |
+| **Medium** | 54 / 60 (133.5 pts) |
+| **Evil** | 100 / 100 (534.88 pts) ✅ |
+| **Penalty** | −37.5 |
+| **Submitted** | 14 Mar 2026, 05:50 PM |
+
+**Evil category: perfect score (100/100).** The deterministic SQL approach eliminated false positives on the highest-value needles. Missed points were in Easy (22/40) and Medium (54/60) categories.
+
+> Top score overall: 753.8 (team Assassin, 195/200 needles, 0 penalty)
 
 ---
 
