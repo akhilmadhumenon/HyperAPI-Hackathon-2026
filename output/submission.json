@@ -1,0 +1,2764 @@
+{
+  "team_id": "baby_sharks",
+  "findings": [
+    {
+      "finding_id": "F-001",
+      "category": "quantity_accumulation",
+      "pages": [
+        220
+      ],
+      "document_refs": [
+        "INV-2025-00084",
+        "INV-2025-00085",
+        "INV-2025-00081",
+        "INV-2025-00082",
+        "INV-2025-00083",
+        "PO-2025-00021"
+      ],
+      "description": "Total qty 120.00 invoiced for 'Interior Design Consultation' exceeds PO qty 59.00 by >20%",
+      "reported_value": "120.00",
+      "correct_value": "<= 70.80"
+    },
+    {
+      "finding_id": "F-002",
+      "category": "quantity_accumulation",
+      "pages": [
+        94
+      ],
+      "document_refs": [
+        "INV-2025-00088",
+        "INV-2025-00089",
+        "INV-2025-00087",
+        "INV-2025-00090",
+        "INV-2025-00086",
+        "PO-2025-00022"
+      ],
+      "description": "Total qty 132.00 invoiced for 'Office Furniture Supply' exceeds PO qty 31.00 by >20%",
+      "reported_value": "132.00",
+      "correct_value": "<= 37.20"
+    },
+    {
+      "finding_id": "F-003",
+      "category": "quantity_accumulation",
+      "pages": [
+        222
+      ],
+      "document_refs": [
+        "INV-2025-00094",
+        "INV-2025-00091",
+        "INV-2025-00093",
+        "INV-2025-00095",
+        "INV-2025-00092",
+        "PO-2025-00023"
+      ],
+      "description": "Total qty 144.00 invoiced for 'Hardware Procurement - Laptops' exceeds PO qty 36.00 by >20%",
+      "reported_value": "144.00",
+      "correct_value": "<= 43.20"
+    },
+    {
+      "finding_id": "F-004",
+      "category": "quantity_accumulation",
+      "pages": [
+        7
+      ],
+      "document_refs": [
+        "INV-2025-00097",
+        "INV-2025-00100",
+        "INV-2025-00096",
+        "INV-2025-00098",
+        "INV-2025-00099",
+        "PO-2025-00024"
+      ],
+      "description": "Total qty 156.00 invoiced for 'API Integration Development' exceeds PO qty 6.00 by >20%",
+      "reported_value": "156.00",
+      "correct_value": "<= 7.20"
+    },
+    {
+      "finding_id": "F-005",
+      "category": "quantity_accumulation",
+      "pages": [
+        154
+      ],
+      "document_refs": [
+        "INV-2025-00101",
+        "INV-2025-00103",
+        "INV-2025-00105",
+        "INV-2025-00102",
+        "INV-2025-00104",
+        "PO-2025-00025"
+      ],
+      "description": "Total qty 168.00 invoiced for 'API Integration Development' exceeds PO qty 62.00 by >20%",
+      "reported_value": "168.00",
+      "correct_value": "<= 74.40"
+    },
+    {
+      "finding_id": "F-006",
+      "category": "quantity_accumulation",
+      "pages": [
+        99
+      ],
+      "document_refs": [
+        "INV-2025-00106",
+        "INV-2025-00109",
+        "INV-2025-00110",
+        "INV-2025-00108",
+        "INV-2025-00107",
+        "PO-2025-00026"
+      ],
+      "description": "Total qty 180.00 invoiced for 'Cybersecurity Audit - Q1 2025' exceeds PO qty 23.00 by >20%",
+      "reported_value": "180.00",
+      "correct_value": "<= 27.60"
+    },
+    {
+      "finding_id": "F-007",
+      "category": "quantity_accumulation",
+      "pages": [
+        112
+      ],
+      "document_refs": [
+        "INV-2025-00115",
+        "INV-2025-00112",
+        "INV-2025-00113",
+        "INV-2025-00114",
+        "INV-2025-00111",
+        "PO-2025-00027"
+      ],
+      "description": "Total qty 192.00 invoiced for 'Hardware Procurement - Laptops' exceeds PO qty 81.00 by >20%",
+      "reported_value": "192.00",
+      "correct_value": "<= 97.20"
+    },
+    {
+      "finding_id": "F-008",
+      "category": "quantity_accumulation",
+      "pages": [
+        16
+      ],
+      "document_refs": [
+        "INV-2025-00118",
+        "INV-2025-00116",
+        "INV-2025-00117",
+        "INV-2025-00119",
+        "INV-2025-00120",
+        "PO-2025-00028"
+      ],
+      "description": "Total qty 204.00 invoiced for 'API Integration Development' exceeds PO qty 87.00 by >20%",
+      "reported_value": "204.00",
+      "correct_value": "<= 104.40"
+    },
+    {
+      "finding_id": "F-009",
+      "category": "quantity_accumulation",
+      "pages": [
+        174
+      ],
+      "document_refs": [
+        "INV-2025-00124",
+        "INV-2025-00125",
+        "INV-2025-00123",
+        "INV-2025-00122",
+        "INV-2025-00121",
+        "PO-2025-00029"
+      ],
+      "description": "Total qty 216.00 invoiced for 'Annual Maintenance Contract - HVAC' exceeds PO qty 29.00 by >20%",
+      "reported_value": "216.00",
+      "correct_value": "<= 34.80"
+    },
+    {
+      "finding_id": "F-010",
+      "category": "quantity_accumulation",
+      "pages": [
+        28
+      ],
+      "document_refs": [
+        "INV-2025-00126",
+        "INV-2025-00127",
+        "INV-2025-00130",
+        "INV-2025-00128",
+        "INV-2025-00129",
+        "PO-2025-00030"
+      ],
+      "description": "Total qty 228.00 invoiced for 'API Integration Development' exceeds PO qty 100.00 by >20%",
+      "reported_value": "228.00",
+      "correct_value": "<= 120.00"
+    },
+    {
+      "finding_id": "F-011",
+      "category": "quantity_accumulation",
+      "pages": [
+        106
+      ],
+      "document_refs": [
+        "INV-2025-00131",
+        "INV-2025-00134",
+        "INV-2025-00135",
+        "INV-2025-00132",
+        "INV-2025-00133",
+        "PO-2025-00031"
+      ],
+      "description": "Total qty 240.00 invoiced for 'Cloud Migration Consulting - Phase 1' exceeds PO qty 70.00 by >20%",
+      "reported_value": "240.00",
+      "correct_value": "<= 84.00"
+    },
+    {
+      "finding_id": "F-012",
+      "category": "quantity_accumulation",
+      "pages": [
+        57
+      ],
+      "document_refs": [
+        "INV-2025-00136",
+        "INV-2025-00137",
+        "INV-2025-00139",
+        "INV-2025-00138",
+        "INV-2025-00140",
+        "PO-2025-00032"
+      ],
+      "description": "Total qty 252.00 invoiced for 'IT Infrastructure Support - Monthly Reta' exceeds PO qty 48.00 by >20%",
+      "reported_value": "252.00",
+      "correct_value": "<= 57.60"
+    },
+    {
+      "finding_id": "F-013",
+      "category": "quantity_accumulation",
+      "pages": [
+        84
+      ],
+      "document_refs": [
+        "INV-2025-00144",
+        "INV-2025-00143",
+        "INV-2025-00145",
+        "INV-2025-00141",
+        "INV-2025-00142",
+        "PO-2025-00033"
+      ],
+      "description": "Total qty 264.00 invoiced for 'API Integration Development' exceeds PO qty 51.00 by >20%",
+      "reported_value": "264.00",
+      "correct_value": "<= 61.20"
+    },
+    {
+      "finding_id": "F-014",
+      "category": "quantity_accumulation",
+      "pages": [
+        11
+      ],
+      "document_refs": [
+        "INV-2025-00146",
+        "INV-2025-00150",
+        "INV-2025-00147",
+        "INV-2025-00148",
+        "INV-2025-00149",
+        "PO-2025-00034"
+      ],
+      "description": "Total qty 276.00 invoiced for 'API Integration Development' exceeds PO qty 62.00 by >20%",
+      "reported_value": "276.00",
+      "correct_value": "<= 74.40"
+    },
+    {
+      "finding_id": "F-015",
+      "category": "quantity_accumulation",
+      "pages": [
+        192
+      ],
+      "document_refs": [
+        "INV-2025-00151",
+        "INV-2025-00153",
+        "INV-2025-00155",
+        "INV-2025-00152",
+        "INV-2025-00154",
+        "PO-2025-00035"
+      ],
+      "description": "Total qty 288.00 invoiced for 'Catering Services - Corporate Events' exceeds PO qty 70.00 by >20%",
+      "reported_value": "288.00",
+      "correct_value": "<= 84.00"
+    },
+    {
+      "finding_id": "F-016",
+      "category": "quantity_accumulation",
+      "pages": [
+        23
+      ],
+      "document_refs": [
+        "INV-2025-00156",
+        "INV-2025-00158",
+        "INV-2025-00157",
+        "PO-2025-00036"
+      ],
+      "description": "Total qty 300.00 invoiced for 'Cloud Migration Consulting - Phase 1' exceeds PO qty 44.00 by >20%",
+      "reported_value": "300.00",
+      "correct_value": "<= 52.80"
+    },
+    {
+      "finding_id": "F-017",
+      "category": "quantity_accumulation",
+      "pages": [
+        20
+      ],
+      "document_refs": [
+        "INV-2025-00159",
+        "INV-2025-00160",
+        "INV-2025-00161",
+        "PO-2025-00037"
+      ],
+      "description": "Total qty 312.00 invoiced for 'Annual Maintenance Contract - HVAC' exceeds PO qty 28.00 by >20%",
+      "reported_value": "312.00",
+      "correct_value": "<= 33.60"
+    },
+    {
+      "finding_id": "F-018",
+      "category": "quantity_accumulation",
+      "pages": [
+        82
+      ],
+      "document_refs": [
+        "INV-2025-00164",
+        "INV-2025-00162",
+        "INV-2025-00163",
+        "PO-2025-00038"
+      ],
+      "description": "Total qty 324.00 invoiced for 'Database Administration - Annual Contrac' exceeds PO qty 28.00 by >20%",
+      "reported_value": "324.00",
+      "correct_value": "<= 33.60"
+    },
+    {
+      "finding_id": "F-019",
+      "category": "quantity_accumulation",
+      "pages": [
+        528
+      ],
+      "document_refs": [
+        "INV-2025-00167",
+        "INV-2025-00166",
+        "INV-2025-00165",
+        "PO-2025-00039"
+      ],
+      "description": "Total qty 336.00 invoiced for 'API Integration Development' exceeds PO qty 27.00 by >20%",
+      "reported_value": "336.00",
+      "correct_value": "<= 32.40"
+    },
+    {
+      "finding_id": "F-020",
+      "category": "quantity_accumulation",
+      "pages": [
+        13
+      ],
+      "document_refs": [
+        "INV-2025-00169",
+        "INV-2025-00170",
+        "INV-2025-00168",
+        "PO-2025-00040"
+      ],
+      "description": "Total qty 348.00 invoiced for 'Digital Marketing Campaign Management' exceeds PO qty 71.00 by >20%",
+      "reported_value": "348.00",
+      "correct_value": "<= 85.20"
+    },
+    {
+      "finding_id": "F-021",
+      "category": "quantity_accumulation",
+      "pages": [
+        236
+      ],
+      "document_refs": [
+        "INV-2025-00171",
+        "INV-2025-00172",
+        "INV-2025-00173",
+        "PO-2025-00041"
+      ],
+      "description": "Total qty 360.00 invoiced for 'Cloud Migration Consulting - Phase 1' exceeds PO qty 11.00 by >20%",
+      "reported_value": "360.00",
+      "correct_value": "<= 13.20"
+    },
+    {
+      "finding_id": "F-022",
+      "category": "quantity_accumulation",
+      "pages": [
+        574
+      ],
+      "document_refs": [
+        "INV-2025-00176",
+        "INV-2025-00175",
+        "INV-2025-00174",
+        "PO-2025-00042"
+      ],
+      "description": "Total qty 372.00 invoiced for 'Network Security Assessment' exceeds PO qty 59.00 by >20%",
+      "reported_value": "372.00",
+      "correct_value": "<= 70.80"
+    },
+    {
+      "finding_id": "F-023",
+      "category": "quantity_accumulation",
+      "pages": [
+        127
+      ],
+      "document_refs": [
+        "INV-2025-00178",
+        "INV-2025-00179",
+        "INV-2025-00177",
+        "PO-2025-00043"
+      ],
+      "description": "Total qty 384.00 invoiced for 'API Integration Development' exceeds PO qty 86.00 by >20%",
+      "reported_value": "384.00",
+      "correct_value": "<= 103.20"
+    },
+    {
+      "finding_id": "F-024",
+      "category": "quantity_accumulation",
+      "pages": [
+        357
+      ],
+      "document_refs": [
+        "INV-2025-00180",
+        "INV-2025-00181",
+        "INV-2025-00182",
+        "PO-2025-00044"
+      ],
+      "description": "Total qty 396.00 invoiced for 'API Integration Development' exceeds PO qty 19.00 by >20%",
+      "reported_value": "396.00",
+      "correct_value": "<= 22.80"
+    },
+    {
+      "finding_id": "F-025",
+      "category": "quantity_accumulation",
+      "pages": [
+        182
+      ],
+      "document_refs": [
+        "INV-2025-00185",
+        "INV-2025-00184",
+        "INV-2025-00183",
+        "PO-2025-00045"
+      ],
+      "description": "Total qty 408.00 invoiced for 'Payroll Processing Services' exceeds PO qty 28.00 by >20%",
+      "reported_value": "408.00",
+      "correct_value": "<= 33.60"
+    },
+    {
+      "finding_id": "F-026",
+      "category": "quantity_accumulation",
+      "pages": [
+        275
+      ],
+      "document_refs": [
+        "INV-2025-00187",
+        "INV-2025-00186",
+        "INV-2025-00188",
+        "PO-2025-00046"
+      ],
+      "description": "Total qty 420.00 invoiced for 'Hardware Procurement - Laptops' exceeds PO qty 74.00 by >20%",
+      "reported_value": "420.00",
+      "correct_value": "<= 88.80"
+    },
+    {
+      "finding_id": "F-027",
+      "category": "quantity_accumulation",
+      "pages": [
+        123
+      ],
+      "document_refs": [
+        "INV-2025-00189",
+        "INV-2025-00191",
+        "INV-2025-00190",
+        "PO-2025-00047"
+      ],
+      "description": "Total qty 432.00 invoiced for 'Annual Maintenance Contract - HVAC' exceeds PO qty 54.00 by >20%",
+      "reported_value": "432.00",
+      "correct_value": "<= 64.80"
+    },
+    {
+      "finding_id": "F-028",
+      "category": "quantity_accumulation",
+      "pages": [
+        376
+      ],
+      "document_refs": [
+        "INV-2025-00194",
+        "INV-2025-00192",
+        "INV-2025-00193",
+        "PO-2025-00048"
+      ],
+      "description": "Total qty 444.00 invoiced for 'Data Analytics Platform Development' exceeds PO qty 79.00 by >20%",
+      "reported_value": "444.00",
+      "correct_value": "<= 94.80"
+    },
+    {
+      "finding_id": "F-029",
+      "category": "quantity_accumulation",
+      "pages": [
+        36
+      ],
+      "document_refs": [
+        "INV-2025-00195",
+        "INV-2025-00196",
+        "INV-2025-00197",
+        "PO-2025-00049"
+      ],
+      "description": "Total qty 456.00 invoiced for 'Catering Services - Corporate Events' exceeds PO qty 5.00 by >20%",
+      "reported_value": "456.00",
+      "correct_value": "<= 6.00"
+    },
+    {
+      "finding_id": "F-030",
+      "category": "quantity_accumulation",
+      "pages": [
+        149
+      ],
+      "document_refs": [
+        "INV-2025-00198",
+        "INV-2025-00200",
+        "INV-2025-00199",
+        "PO-2025-00050"
+      ],
+      "description": "Total qty 468.00 invoiced for 'Catering Services - Corporate Events' exceeds PO qty 33.00 by >20%",
+      "reported_value": "468.00",
+      "correct_value": "<= 39.60"
+    },
+    {
+      "finding_id": "F-031",
+      "category": "quantity_accumulation",
+      "pages": [
+        53
+      ],
+      "document_refs": [
+        "INV-2025-00202",
+        "INV-2025-00203",
+        "INV-2025-00201",
+        "PO-2025-00051"
+      ],
+      "description": "Total qty 480.00 invoiced for 'API Integration Development' exceeds PO qty 50.00 by >20%",
+      "reported_value": "480.00",
+      "correct_value": "<= 60.00"
+    },
+    {
+      "finding_id": "F-032",
+      "category": "quantity_accumulation",
+      "pages": [
+        522
+      ],
+      "document_refs": [
+        "INV-2025-00205",
+        "INV-2025-00204",
+        "INV-2025-00206",
+        "PO-2025-00052"
+      ],
+      "description": "Total qty 492.00 invoiced for 'Business Process Reengineering' exceeds PO qty 59.00 by >20%",
+      "reported_value": "492.00",
+      "correct_value": "<= 70.80"
+    },
+    {
+      "finding_id": "F-033",
+      "category": "quantity_accumulation",
+      "pages": [
+        214
+      ],
+      "document_refs": [
+        "INV-2025-00208",
+        "INV-2025-00209",
+        "INV-2025-00207",
+        "PO-2025-00053"
+      ],
+      "description": "Total qty 504.00 invoiced for 'Database Administration - Annual Contrac' exceeds PO qty 63.00 by >20%",
+      "reported_value": "504.00",
+      "correct_value": "<= 75.60"
+    },
+    {
+      "finding_id": "F-034",
+      "category": "quantity_accumulation",
+      "pages": [
+        63
+      ],
+      "document_refs": [
+        "INV-2025-00211",
+        "INV-2025-00210",
+        "INV-2025-00212",
+        "PO-2025-00054"
+      ],
+      "description": "Total qty 516.00 invoiced for 'Business Process Reengineering' exceeds PO qty 17.00 by >20%",
+      "reported_value": "516.00",
+      "correct_value": "<= 20.40"
+    },
+    {
+      "finding_id": "F-035",
+      "category": "quantity_accumulation",
+      "pages": [
+        153
+      ],
+      "document_refs": [
+        "INV-2025-00215",
+        "INV-2025-00213",
+        "INV-2025-00214",
+        "PO-2025-00055"
+      ],
+      "description": "Total qty 528.00 invoiced for 'IT Infrastructure Support - Monthly Reta' exceeds PO qty 49.00 by >20%",
+      "reported_value": "528.00",
+      "correct_value": "<= 58.80"
+    },
+    {
+      "finding_id": "F-036",
+      "category": "price_escalation",
+      "pages": [
+        46
+      ],
+      "document_refs": [
+        "INV-2025-00217",
+        "INV-2025-00219",
+        "INV-2025-00216",
+        "INV-2025-00218",
+        "PO-2025-00056"
+      ],
+      "description": "All 4 invoices for 'IT Infrastructure Support - Monthly Reta' charge rate 5625.00-7500.00 > contracted PO rate 3754.19",
+      "reported_value": "5625.00",
+      "correct_value": "3754.19"
+    },
+    {
+      "finding_id": "F-037",
+      "category": "price_escalation",
+      "pages": [
+        42
+      ],
+      "document_refs": [
+        "INV-2025-00220",
+        "INV-2025-00221",
+        "INV-2025-00222",
+        "INV-2025-00223",
+        "PO-2025-00057"
+      ],
+      "description": "All 4 invoices for 'Cloud Migration Consulting - Phase 1' charge rate 6750.00-9000.00 > contracted PO rate 2679.31",
+      "reported_value": "6750.00",
+      "correct_value": "2679.31"
+    },
+    {
+      "finding_id": "F-038",
+      "category": "price_escalation",
+      "pages": [
+        164
+      ],
+      "document_refs": [
+        "INV-2025-00224",
+        "INV-2025-00225",
+        "INV-2025-00226",
+        "INV-2025-00227",
+        "PO-2025-00058"
+      ],
+      "description": "All 4 invoices for 'Software License - Enterprise Edition' charge rate 7875.00-10500.00 > contracted PO rate 7000.00",
+      "reported_value": "7875.00",
+      "correct_value": "7000.00"
+    },
+    {
+      "finding_id": "F-039",
+      "category": "price_escalation",
+      "pages": [
+        92
+      ],
+      "document_refs": [
+        "INV-2025-00231",
+        "INV-2025-00229",
+        "INV-2025-00228",
+        "INV-2025-00230",
+        "PO-2025-00059"
+      ],
+      "description": "All 4 invoices for 'Data Analytics Platform Development' charge rate 9000.00-12000.00 > contracted PO rate 8000.00",
+      "reported_value": "9000.00",
+      "correct_value": "8000.00"
+    },
+    {
+      "finding_id": "F-040",
+      "category": "price_escalation",
+      "pages": [
+        382
+      ],
+      "document_refs": [
+        "INV-2025-00232",
+        "INV-2025-00233",
+        "INV-2025-00235",
+        "INV-2025-00234",
+        "PO-2025-00060"
+      ],
+      "description": "All 4 invoices for 'Interior Design Consultation' charge rate 10125.00-13500.00 > contracted PO rate 2243.42",
+      "reported_value": "10125.00",
+      "correct_value": "2243.42"
+    },
+    {
+      "finding_id": "F-041",
+      "category": "price_escalation",
+      "pages": [
+        88
+      ],
+      "document_refs": [
+        "INV-2025-00236",
+        "INV-2025-00238",
+        "INV-2025-00237",
+        "INV-2025-00239",
+        "PO-2025-00061"
+      ],
+      "description": "All 4 invoices for 'Compliance Advisory Services' charge rate 11250.00-15000.00 > contracted PO rate 10000.00",
+      "reported_value": "11250.00",
+      "correct_value": "10000.00"
+    },
+    {
+      "finding_id": "F-042",
+      "category": "price_escalation",
+      "pages": [
+        72
+      ],
+      "document_refs": [
+        "INV-2025-00243",
+        "INV-2025-00242",
+        "INV-2025-00241",
+        "INV-2025-00240",
+        "PO-2025-00062"
+      ],
+      "description": "All 4 invoices for 'Business Process Reengineering' charge rate 12375.00-16500.00 > contracted PO rate 5113.25",
+      "reported_value": "12375.00",
+      "correct_value": "5113.25"
+    },
+    {
+      "finding_id": "F-043",
+      "category": "price_escalation",
+      "pages": [
+        9
+      ],
+      "document_refs": [
+        "INV-2025-00246",
+        "INV-2025-00244",
+        "INV-2025-00247",
+        "INV-2025-00245",
+        "PO-2025-00063"
+      ],
+      "description": "All 4 invoices for 'Compliance Advisory Services' charge rate 13500.00-18000.00 > contracted PO rate 10260.75",
+      "reported_value": "13500.00",
+      "correct_value": "10260.75"
+    },
+    {
+      "finding_id": "F-044",
+      "category": "price_escalation",
+      "pages": [
+        119
+      ],
+      "document_refs": [
+        "INV-2025-00248",
+        "INV-2025-00250",
+        "INV-2025-00249",
+        "INV-2025-00251",
+        "PO-2025-00064"
+      ],
+      "description": "All 4 invoices for 'IT Infrastructure Support - Monthly Reta' charge rate 14625.00-19500.00 > contracted PO rate 12419.32",
+      "reported_value": "14625.00",
+      "correct_value": "12419.32"
+    },
+    {
+      "finding_id": "F-045",
+      "category": "price_escalation",
+      "pages": [
+        212
+      ],
+      "document_refs": [
+        "INV-2025-00252",
+        "INV-2025-00255",
+        "INV-2025-00253",
+        "INV-2025-00254",
+        "PO-2025-00065"
+      ],
+      "description": "All 4 invoices for 'Cloud Migration Consulting - Phase 1' charge rate 15750.00-21000.00 > contracted PO rate 14510.11",
+      "reported_value": "15750.00",
+      "correct_value": "14510.11"
+    },
+    {
+      "finding_id": "F-046",
+      "category": "balance_drift",
+      "pages": [
+        836
+      ],
+      "document_refs": [
+        "BS-2025-00002",
+        "BS-2025-00001"
+      ],
+      "description": "Opening balance 211231.14 of BS-2025-00002 \u2260 closing balance 211156.14 of BS-2025-00001",
+      "reported_value": "211231.14",
+      "correct_value": "211156.14"
+    },
+    {
+      "finding_id": "F-047",
+      "category": "balance_drift",
+      "pages": [
+        838
+      ],
+      "document_refs": [
+        "BS-2025-00003",
+        "BS-2025-00002"
+      ],
+      "description": "Opening balance 661018.67 of BS-2025-00003 \u2260 closing balance 660898.67 of BS-2025-00002",
+      "reported_value": "661018.67",
+      "correct_value": "660898.67"
+    },
+    {
+      "finding_id": "F-048",
+      "category": "balance_drift",
+      "pages": [
+        840
+      ],
+      "document_refs": [
+        "BS-2025-00004",
+        "BS-2025-00003"
+      ],
+      "description": "Opening balance 508030.69 of BS-2025-00004 \u2260 closing balance 508180.69 of BS-2025-00003",
+      "reported_value": "508030.69",
+      "correct_value": "508180.69"
+    },
+    {
+      "finding_id": "F-049",
+      "category": "balance_drift",
+      "pages": [
+        842
+      ],
+      "document_refs": [
+        "BS-2025-00005",
+        "BS-2025-00004"
+      ],
+      "description": "Opening balance 1760318.17 of BS-2025-00005 \u2260 closing balance 1760273.17 of BS-2025-00004",
+      "reported_value": "1760318.17",
+      "correct_value": "1760273.17"
+    },
+    {
+      "finding_id": "F-050",
+      "category": "balance_drift",
+      "pages": [
+        844
+      ],
+      "document_refs": [
+        "BS-2025-00006",
+        "BS-2025-00005"
+      ],
+      "description": "Opening balance 2433275.51 of BS-2025-00006 \u2260 closing balance 2433525.51 of BS-2025-00005",
+      "reported_value": "2433275.51",
+      "correct_value": "2433525.51"
+    },
+    {
+      "finding_id": "F-051",
+      "category": "balance_drift",
+      "pages": [
+        845
+      ],
+      "document_refs": [
+        "BS-2025-00007",
+        "BS-2025-00006"
+      ],
+      "description": "Opening balance 3726040.18 of BS-2025-00007 \u2260 closing balance 3726220.18 of BS-2025-00006",
+      "reported_value": "3726040.18",
+      "correct_value": "3726220.18"
+    },
+    {
+      "finding_id": "F-052",
+      "category": "balance_drift",
+      "pages": [
+        847
+      ],
+      "document_refs": [
+        "BS-2025-00008",
+        "BS-2025-00007"
+      ],
+      "description": "Opening balance 3503258.66 of BS-2025-00008 \u2260 closing balance 3503128.66 of BS-2025-00007",
+      "reported_value": "3503258.66",
+      "correct_value": "3503128.66"
+    },
+    {
+      "finding_id": "F-053",
+      "category": "balance_drift",
+      "pages": [
+        848
+      ],
+      "document_refs": [
+        "BS-2025-00009",
+        "BS-2025-00008"
+      ],
+      "description": "Opening balance 4662033.52 of BS-2025-00009 \u2260 closing balance 4662128.52 of BS-2025-00008",
+      "reported_value": "4662033.52",
+      "correct_value": "4662128.52"
+    },
+    {
+      "finding_id": "F-054",
+      "category": "balance_drift",
+      "pages": [
+        850
+      ],
+      "document_refs": [
+        "BS-2025-00010",
+        "BS-2025-00009"
+      ],
+      "description": "Opening balance 5291278.69 of BS-2025-00010 \u2260 closing balance 5291198.69 of BS-2025-00009",
+      "reported_value": "5291278.69",
+      "correct_value": "5291198.69"
+    },
+    {
+      "finding_id": "F-055",
+      "category": "balance_drift",
+      "pages": [
+        852
+      ],
+      "document_refs": [
+        "BS-2025-00011",
+        "BS-2025-00010"
+      ],
+      "description": "Opening balance 5909330.77 of BS-2025-00011 \u2260 closing balance 5909490.77 of BS-2025-00010",
+      "reported_value": "5909330.77",
+      "correct_value": "5909490.77"
+    },
+    {
+      "finding_id": "F-056",
+      "category": "balance_drift",
+      "pages": [
+        854
+      ],
+      "document_refs": [
+        "BS-2025-00012",
+        "BS-2025-00011"
+      ],
+      "description": "Opening balance 6655285.20 of BS-2025-00012 \u2260 closing balance 6655340.20 of BS-2025-00011",
+      "reported_value": "6655285.20",
+      "correct_value": "6655340.20"
+    },
+    {
+      "finding_id": "F-057",
+      "category": "balance_drift",
+      "pages": [
+        858
+      ],
+      "document_refs": [
+        "BS-2025-00014",
+        "BS-2025-00013"
+      ],
+      "description": "Opening balance 781660.59 of BS-2025-00014 \u2260 closing balance 781770.59 of BS-2025-00013",
+      "reported_value": "781660.59",
+      "correct_value": "781770.59"
+    },
+    {
+      "finding_id": "F-058",
+      "category": "balance_drift",
+      "pages": [
+        860
+      ],
+      "document_refs": [
+        "BS-2025-00015",
+        "BS-2025-00014"
+      ],
+      "description": "Opening balance 225938.51 of BS-2025-00015 \u2260 closing balance 226138.51 of BS-2025-00014",
+      "reported_value": "225938.51",
+      "correct_value": "226138.51"
+    },
+    {
+      "finding_id": "F-059",
+      "category": "balance_drift",
+      "pages": [
+        861
+      ],
+      "document_refs": [
+        "BS-2025-00016",
+        "BS-2025-00015"
+      ],
+      "description": "Opening balance 754091.30 of BS-2025-00016 \u2260 closing balance 754031.30 of BS-2025-00015",
+      "reported_value": "754091.30",
+      "correct_value": "754031.30"
+    },
+    {
+      "finding_id": "F-060",
+      "category": "balance_drift",
+      "pages": [
+        863
+      ],
+      "document_refs": [
+        "BS-2025-00017",
+        "BS-2025-00016"
+      ],
+      "description": "Opening balance 1498438.97 of BS-2025-00017 \u2260 closing balance 1498523.97 of BS-2025-00016",
+      "reported_value": "1498438.97",
+      "correct_value": "1498523.97"
+    },
+    {
+      "finding_id": "F-061",
+      "category": "circular_reference",
+      "pages": [
+        39,
+        329,
+        503
+      ],
+      "document_refs": [
+        "DN-2025-00006",
+        "CN-2025-00011",
+        "CN-2025-00012"
+      ],
+      "description": "Circular reference chain: DN-2025-00006 \u2192 CN-2025-00011 \u2192 CN-2025-00012 \u2192 DN-2025-00006",
+      "reported_value": "DN-2025-00006 \u2192 CN-2025-00011 \u2192 CN-2025-00012",
+      "correct_value": "Should trace back to a real invoice"
+    },
+    {
+      "finding_id": "F-062",
+      "category": "circular_reference",
+      "pages": [
+        55,
+        67,
+        616
+      ],
+      "document_refs": [
+        "DN-2025-00003",
+        "CN-2025-00005",
+        "CN-2025-00006"
+      ],
+      "description": "Circular reference chain: DN-2025-00003 \u2192 CN-2025-00005 \u2192 CN-2025-00006 \u2192 DN-2025-00003",
+      "reported_value": "DN-2025-00003 \u2192 CN-2025-00005 \u2192 CN-2025-00006",
+      "correct_value": "Should trace back to a real invoice"
+    },
+    {
+      "finding_id": "F-063",
+      "category": "circular_reference",
+      "pages": [
+        83,
+        416,
+        422
+      ],
+      "document_refs": [
+        "CN-2025-00014",
+        "DN-2025-00007",
+        "CN-2025-00013"
+      ],
+      "description": "Circular reference chain: CN-2025-00014 \u2192 DN-2025-00007 \u2192 CN-2025-00013 \u2192 CN-2025-00014",
+      "reported_value": "CN-2025-00014 \u2192 DN-2025-00007 \u2192 CN-2025-00013",
+      "correct_value": "Should trace back to a real invoice"
+    },
+    {
+      "finding_id": "F-064",
+      "category": "circular_reference",
+      "pages": [
+        10,
+        133,
+        299
+      ],
+      "document_refs": [
+        "DN-2025-00008",
+        "CN-2025-00015",
+        "CN-2025-00016"
+      ],
+      "description": "Circular reference chain: DN-2025-00008 \u2192 CN-2025-00015 \u2192 CN-2025-00016 \u2192 DN-2025-00008",
+      "reported_value": "DN-2025-00008 \u2192 CN-2025-00015 \u2192 CN-2025-00016",
+      "correct_value": "Should trace back to a real invoice"
+    },
+    {
+      "finding_id": "F-065",
+      "category": "circular_reference",
+      "pages": [
+        141,
+        519,
+        536
+      ],
+      "document_refs": [
+        "DN-2025-00001",
+        "CN-2025-00001",
+        "CN-2025-00002"
+      ],
+      "description": "Circular reference chain: DN-2025-00001 \u2192 CN-2025-00001 \u2192 CN-2025-00002 \u2192 DN-2025-00001",
+      "reported_value": "DN-2025-00001 \u2192 CN-2025-00001 \u2192 CN-2025-00002",
+      "correct_value": "Should trace back to a real invoice"
+    },
+    {
+      "finding_id": "F-066",
+      "category": "circular_reference",
+      "pages": [
+        102,
+        195,
+        384
+      ],
+      "document_refs": [
+        "CN-2025-00004",
+        "DN-2025-00002",
+        "CN-2025-00003"
+      ],
+      "description": "Circular reference chain: CN-2025-00004 \u2192 DN-2025-00002 \u2192 CN-2025-00003 \u2192 CN-2025-00004",
+      "reported_value": "CN-2025-00004 \u2192 DN-2025-00002 \u2192 CN-2025-00003",
+      "correct_value": "Should trace back to a real invoice"
+    },
+    {
+      "finding_id": "F-067",
+      "category": "circular_reference",
+      "pages": [
+        256,
+        346,
+        534
+      ],
+      "document_refs": [
+        "DN-2025-00005",
+        "CN-2025-00009",
+        "CN-2025-00010"
+      ],
+      "description": "Circular reference chain: DN-2025-00005 \u2192 CN-2025-00009 \u2192 CN-2025-00010 \u2192 DN-2025-00005",
+      "reported_value": "DN-2025-00005 \u2192 CN-2025-00009 \u2192 CN-2025-00010",
+      "correct_value": "Should trace back to a real invoice"
+    },
+    {
+      "finding_id": "F-068",
+      "category": "circular_reference",
+      "pages": [
+        321,
+        600,
+        675
+      ],
+      "document_refs": [
+        "CN-2025-00008",
+        "DN-2025-00004",
+        "CN-2025-00007"
+      ],
+      "description": "Circular reference chain: CN-2025-00008 \u2192 DN-2025-00004 \u2192 CN-2025-00007 \u2192 CN-2025-00008",
+      "reported_value": "CN-2025-00008 \u2192 DN-2025-00004 \u2192 CN-2025-00007",
+      "correct_value": "Should trace back to a real invoice"
+    },
+    {
+      "finding_id": "F-069",
+      "category": "employee_id_collision",
+      "pages": [
+        932
+      ],
+      "document_refs": [
+        "EXP-2025-00052",
+        "EXP-2025-00051"
+      ],
+      "description": "Employee ID EMP-1000 used by multiple employees: Rahul Verma,Rajesh Kumar",
+      "reported_value": "EMP-1000",
+      "correct_value": "Unique ID per employee"
+    },
+    {
+      "finding_id": "F-070",
+      "category": "employee_id_collision",
+      "pages": [
+        911
+      ],
+      "document_refs": [
+        "EXP-2025-00053",
+        "EXP-2025-00001",
+        "EXP-2025-00054"
+      ],
+      "description": "Employee ID EMP-1001 used by multiple employees: Priya Sharma,Kavita Desai",
+      "reported_value": "EMP-1001",
+      "correct_value": "Unique ID per employee"
+    },
+    {
+      "finding_id": "F-071",
+      "category": "employee_id_collision",
+      "pages": [
+        909
+      ],
+      "document_refs": [
+        "EXP-2025-00002",
+        "EXP-2025-00056",
+        "EXP-2025-00055"
+      ],
+      "description": "Employee ID EMP-1002 used by multiple employees: Amit Patel,Deepak Rao",
+      "reported_value": "EMP-1002",
+      "correct_value": "Unique ID per employee"
+    },
+    {
+      "finding_id": "F-072",
+      "category": "employee_id_collision",
+      "pages": [
+        928
+      ],
+      "document_refs": [
+        "EXP-2025-00057",
+        "EXP-2025-00058",
+        "EXP-2025-00003"
+      ],
+      "description": "Employee ID EMP-1003 used by multiple employees: Sneha Gupta,Pooja Mishra",
+      "reported_value": "EMP-1003",
+      "correct_value": "Unique ID per employee"
+    },
+    {
+      "finding_id": "F-073",
+      "category": "employee_id_collision",
+      "pages": [
+        917
+      ],
+      "document_refs": [
+        "EXP-2025-00060",
+        "EXP-2025-00004",
+        "EXP-2025-00059"
+      ],
+      "description": "Employee ID EMP-1004 used by multiple employees: Naveen Hegde,Vikram Singh",
+      "reported_value": "EMP-1004",
+      "correct_value": "Unique ID per employee"
+    },
+    {
+      "finding_id": "F-074",
+      "category": "employee_id_collision",
+      "pages": [
+        925
+      ],
+      "document_refs": [
+        "EXP-2025-00005",
+        "EXP-2025-00061",
+        "EXP-2025-00062"
+      ],
+      "description": "Employee ID EMP-1005 used by multiple employees: Ananya Reddy,Swati Kulkarni",
+      "reported_value": "EMP-1005",
+      "correct_value": "Unique ID per employee"
+    },
+    {
+      "finding_id": "F-075",
+      "category": "employee_id_collision",
+      "pages": [
+        908
+      ],
+      "document_refs": [
+        "EXP-2025-00063",
+        "EXP-2025-00064",
+        "EXP-2025-00006"
+      ],
+      "description": "Employee ID EMP-1006 used by multiple employees: Suresh Iyer,Ritu Agarwal",
+      "reported_value": "EMP-1006",
+      "correct_value": "Unique ID per employee"
+    },
+    {
+      "finding_id": "F-076",
+      "category": "fake_vendor",
+      "pages": [
+        76
+      ],
+      "document_refs": [
+        "INV-2025-00076"
+      ],
+      "description": "Vendor 'Maruti Suzuki India Ltd' (GSTIN: 01MOVHL9365E1ZJ) not found in Vendor Master; closest match: 'Maruti Suzuki India Ltd'",
+      "reported_value": "01MOVHL9365E1ZJ",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-077",
+      "category": "fake_vendor",
+      "pages": [
+        137
+      ],
+      "document_refs": [
+        "INV-2025-00261"
+      ],
+      "description": "Vendor 'Skyline Digital Ventures Pvt Ltd' (GSTIN: 18UIFFC0991L1ZK) not found in Vendor Master",
+      "reported_value": "18UIFFC0991L1ZK",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-078",
+      "category": "fake_vendor",
+      "pages": [
+        178
+      ],
+      "document_refs": [
+        "INV-2025-00078"
+      ],
+      "description": "Vendor 'Coforge Ltd' (GSTIN: 14YGGCU2946D1Z7) not found in Vendor Master; closest match: 'Coforge Ltd'",
+      "reported_value": "14YGGCU2946D1Z7",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-079",
+      "category": "fake_vendor",
+      "pages": [
+        200,
+        201
+      ],
+      "document_refs": [
+        "INV-2025-00260"
+      ],
+      "description": "Vendor 'Summit Global Holdings Ltd' (GSTIN: 14NYECO8217F2Z5) not found in Vendor Master",
+      "reported_value": "14NYECO8217F2Z5",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-080",
+      "category": "fake_vendor",
+      "pages": [
+        246
+      ],
+      "document_refs": [
+        "INV-2025-00258"
+      ],
+      "description": "Vendor 'Apex Strategy Consulting LLP' (GSTIN: 10HVHPH4042E2ZY) not found in Vendor Master",
+      "reported_value": "10HVHPH4042E2ZY",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-081",
+      "category": "fake_vendor",
+      "pages": [
+        264
+      ],
+      "document_refs": [
+        "INV-2025-00079"
+      ],
+      "description": "Vendor 'Siemens Ltd' (GSTIN: 36STKHF8213R2ZN) not found in Vendor Master; closest match: 'Siemens Ltd'",
+      "reported_value": "36STKHF8213R2ZN",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-082",
+      "category": "fake_vendor",
+      "pages": [
+        272,
+        273
+      ],
+      "document_refs": [
+        "INV-2025-00264"
+      ],
+      "description": "Vendor 'Nova Integrated Systems Pvt Ltd' (GSTIN: 21YDQHJ1417X1ZR) not found in Vendor Master",
+      "reported_value": "21YDQHJ1417X1ZR",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-083",
+      "category": "fake_vendor",
+      "pages": [
+        284
+      ],
+      "document_refs": [
+        "INV-2025-00257"
+      ],
+      "description": "Vendor 'Bharat Core Infra Services Ltd' (GSTIN: 18MBSHJ9236J1ZQ) not found in Vendor Master",
+      "reported_value": "18MBSHJ9236J1ZQ",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-084",
+      "category": "fake_vendor",
+      "pages": [
+        380,
+        381
+      ],
+      "document_refs": [
+        "INV-2025-00077"
+      ],
+      "description": "Vendor 'Bharat Electronics Ltd' (GSTIN: 02KBAHR9713I2ZT) not found in Vendor Master; closest match: 'Bharat Electronics Ltd'",
+      "reported_value": "02KBAHR9713I2ZT",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-085",
+      "category": "fake_vendor",
+      "pages": [
+        456
+      ],
+      "document_refs": [
+        "INV-2025-00080"
+      ],
+      "description": "Vendor 'ICICI Bank Ltd' (GSTIN: 29ISTPJ7395K1Z9) not found in Vendor Master; closest match: 'ICICI Bank Ltd'",
+      "reported_value": "29ISTPJ7395K1Z9",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-086",
+      "category": "fake_vendor",
+      "pages": [
+        465
+      ],
+      "document_refs": [
+        "INV-2025-00265"
+      ],
+      "description": "Vendor 'Summit Global Holdings Ltd' (GSTIN: 14NYECO8217F2Z5) not found in Vendor Master",
+      "reported_value": "14NYECO8217F2Z5",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-087",
+      "category": "fake_vendor",
+      "pages": [
+        477
+      ],
+      "document_refs": [
+        "INV-2025-00263"
+      ],
+      "description": "Vendor 'Apex Strategy Consulting LLP' (GSTIN: 10HVHPH4042E2ZY) not found in Vendor Master",
+      "reported_value": "10HVHPH4042E2ZY",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-088",
+      "category": "fake_vendor",
+      "pages": [
+        520,
+        521
+      ],
+      "document_refs": [
+        "INV-2025-00256"
+      ],
+      "description": "Vendor 'Skyline Digital Ventures Pvt Ltd' (GSTIN: 18UIFFC0991L1ZK) not found in Vendor Master",
+      "reported_value": "18UIFFC0991L1ZK",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-089",
+      "category": "fake_vendor",
+      "pages": [
+        629
+      ],
+      "document_refs": [
+        "INV-2025-00259"
+      ],
+      "description": "Vendor 'Nova Integrated Systems Pvt Ltd' (GSTIN: 21YDQHJ1417X1ZR) not found in Vendor Master",
+      "reported_value": "21YDQHJ1417X1ZR",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-090",
+      "category": "fake_vendor",
+      "pages": [
+        631,
+        632
+      ],
+      "document_refs": [
+        "INV-2025-00262"
+      ],
+      "description": "Vendor 'Bharat Core Infra Services Ltd' (GSTIN: 18MBSHJ9236J1ZQ) not found in Vendor Master",
+      "reported_value": "18MBSHJ9236J1ZQ",
+      "correct_value": "Not in Vendor Master"
+    },
+    {
+      "finding_id": "F-091",
+      "category": "phantom_po_reference",
+      "pages": [
+        60
+      ],
+      "document_refs": [
+        "INV-2025-00269",
+        "PO-2025-99004"
+      ],
+      "description": "Invoice references PO PO-2025-99004 which does not exist in the dataset",
+      "reported_value": "PO-2025-99004",
+      "correct_value": "Valid PO required"
+    },
+    {
+      "finding_id": "F-092",
+      "category": "phantom_po_reference",
+      "pages": [
+        142,
+        143
+      ],
+      "document_refs": [
+        "INV-2025-00270",
+        "PO-2025-99005"
+      ],
+      "description": "Invoice references PO PO-2025-99005 which does not exist in the dataset",
+      "reported_value": "PO-2025-99005",
+      "correct_value": "Valid PO required"
+    },
+    {
+      "finding_id": "F-093",
+      "category": "phantom_po_reference",
+      "pages": [
+        147,
+        148
+      ],
+      "document_refs": [
+        "INV-2025-00268",
+        "PO-2025-99003"
+      ],
+      "description": "Invoice references PO PO-2025-99003 which does not exist in the dataset",
+      "reported_value": "PO-2025-99003",
+      "correct_value": "Valid PO required"
+    },
+    {
+      "finding_id": "F-094",
+      "category": "phantom_po_reference",
+      "pages": [
+        319
+      ],
+      "document_refs": [
+        "INV-2025-00266",
+        "PO-2025-99001"
+      ],
+      "description": "Invoice references PO PO-2025-99001 which does not exist in the dataset",
+      "reported_value": "PO-2025-99001",
+      "correct_value": "Valid PO required"
+    },
+    {
+      "finding_id": "F-095",
+      "category": "phantom_po_reference",
+      "pages": [
+        459
+      ],
+      "document_refs": [
+        "INV-2025-00267",
+        "PO-2025-99002"
+      ],
+      "description": "Invoice references PO PO-2025-99002 which does not exist in the dataset",
+      "reported_value": "PO-2025-99002",
+      "correct_value": "Valid PO required"
+    },
+    {
+      "finding_id": "F-096",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        334
+      ],
+      "document_refs": [
+        "INV-2025-00042",
+        "PO-2025-00002"
+      ],
+      "description": "Line 'Courier & Logistics Services': invoice rate 2004.33 vs PO rate 1804.33",
+      "reported_value": "2004.33",
+      "correct_value": "1804.33"
+    },
+    {
+      "finding_id": "F-097",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        449,
+        450
+      ],
+      "document_refs": [
+        "INV-2025-00044",
+        "PO-2025-00004"
+      ],
+      "description": "Line 'IT Infrastructure Support - Monthly Reta': invoice rate 4943.27 vs PO rate 7032.47",
+      "reported_value": "4943.27",
+      "correct_value": "7032.47"
+    },
+    {
+      "finding_id": "F-098",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        140
+      ],
+      "document_refs": [
+        "INV-2025-00047",
+        "PO-2025-00007"
+      ],
+      "description": "Line 'Annual Maintenance Contract - HVAC': invoice rate 5669.85 vs PO rate 745.96",
+      "reported_value": "5669.85",
+      "correct_value": "745.96"
+    },
+    {
+      "finding_id": "F-099",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        52
+      ],
+      "document_refs": [
+        "INV-2025-00049",
+        "PO-2025-00009"
+      ],
+      "description": "Line 'API Integration Development': invoice rate 18824.27 vs PO rate 15403.75",
+      "reported_value": "18824.27",
+      "correct_value": "15403.75"
+    },
+    {
+      "finding_id": "F-100",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        75
+      ],
+      "document_refs": [
+        "INV-2025-00052",
+        "PO-2025-00012"
+      ],
+      "description": "Line 'Courier & Logistics Services': invoice rate 3470.41 vs PO rate 1215.89",
+      "reported_value": "3470.41",
+      "correct_value": "1215.89"
+    },
+    {
+      "finding_id": "F-101",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        418,
+        419
+      ],
+      "document_refs": [
+        "INV-2025-00054",
+        "PO-2025-00014"
+      ],
+      "description": "Line 'Business Process Reengineering': invoice rate 5657.30 vs PO rate 19066.38",
+      "reported_value": "5657.30",
+      "correct_value": "19066.38"
+    },
+    {
+      "finding_id": "F-102",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        259,
+        260
+      ],
+      "document_refs": [
+        "INV-2025-00216",
+        "PO-2025-00056"
+      ],
+      "description": "Line 'Catering Services - Corporate Events': invoice rate 5625.00 vs PO rate 15906.91",
+      "reported_value": "5625.00",
+      "correct_value": "15906.91"
+    },
+    {
+      "finding_id": "F-103",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        42,
+        43
+      ],
+      "document_refs": [
+        "INV-2025-00220",
+        "PO-2025-00057"
+      ],
+      "description": "Line 'Cloud Migration Consulting - Phase 1': invoice rate 6750.00 vs PO rate 2679.31",
+      "reported_value": "6750.00",
+      "correct_value": "2679.31"
+    },
+    {
+      "finding_id": "F-104",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        164
+      ],
+      "document_refs": [
+        "INV-2025-00224",
+        "PO-2025-00058"
+      ],
+      "description": "Line 'Network Security Assessment': invoice rate 7875.00 vs PO rate 9728.03",
+      "reported_value": "7875.00",
+      "correct_value": "9728.03"
+    },
+    {
+      "finding_id": "F-105",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        529
+      ],
+      "document_refs": [
+        "INV-2025-00228",
+        "PO-2025-00059"
+      ],
+      "description": "Line 'Data Analytics Platform Development': invoice rate 9000.00 vs PO rate 8000.00",
+      "reported_value": "9000.00",
+      "correct_value": "8000.00"
+    },
+    {
+      "finding_id": "F-106",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        382
+      ],
+      "document_refs": [
+        "INV-2025-00232",
+        "PO-2025-00060"
+      ],
+      "description": "Line 'Interior Design Consultation': invoice rate 10125.00 vs PO rate 2243.42",
+      "reported_value": "10125.00",
+      "correct_value": "2243.42"
+    },
+    {
+      "finding_id": "F-107",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        88
+      ],
+      "document_refs": [
+        "INV-2025-00236",
+        "PO-2025-00061"
+      ],
+      "description": "Line 'Compliance Advisory Services': invoice rate 11250.00 vs PO rate 10000.00",
+      "reported_value": "11250.00",
+      "correct_value": "10000.00"
+    },
+    {
+      "finding_id": "F-108",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        402,
+        403
+      ],
+      "document_refs": [
+        "INV-2025-00240",
+        "PO-2025-00062"
+      ],
+      "description": "Line 'Business Process Reengineering': invoice rate 12375.00 vs PO rate 5113.25",
+      "reported_value": "12375.00",
+      "correct_value": "5113.25"
+    },
+    {
+      "finding_id": "F-109",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        70
+      ],
+      "document_refs": [
+        "INV-2025-00244",
+        "PO-2025-00063"
+      ],
+      "description": "Line 'Cloud Migration Consulting - Phase 1': invoice rate 13500.00 vs PO rate 18092.42",
+      "reported_value": "13500.00",
+      "correct_value": "18092.42"
+    },
+    {
+      "finding_id": "F-110",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        119,
+        120
+      ],
+      "document_refs": [
+        "INV-2025-00248",
+        "PO-2025-00064"
+      ],
+      "description": "Line 'Catering Services - Corporate Events': invoice rate 14625.00 vs PO rate 18448.77",
+      "reported_value": "14625.00",
+      "correct_value": "18448.77"
+    },
+    {
+      "finding_id": "F-111",
+      "category": "po_invoice_mismatch",
+      "pages": [
+        212
+      ],
+      "document_refs": [
+        "INV-2025-00252",
+        "PO-2025-00065"
+      ],
+      "description": "Line 'Cloud Migration Consulting - Phase 1': invoice rate 15750.00 vs PO rate 14510.11",
+      "reported_value": "15750.00",
+      "correct_value": "14510.11"
+    },
+    {
+      "finding_id": "F-112",
+      "category": "vendor_name_typo",
+      "pages": [
+        62
+      ],
+      "document_refs": [
+        "INV-2025-00011"
+      ],
+      "description": "Vendor name 'Happiest Minds Technologies Ltd' misspelled vs master 'Happiest Minds Technologies Lt'",
+      "reported_value": "Happiest Minds Technologies Ltd",
+      "correct_value": "Happiest Minds Technologies Lt"
+    },
+    {
+      "finding_id": "F-113",
+      "category": "vendor_name_typo",
+      "pages": [
+        158
+      ],
+      "document_refs": [
+        "INV-2025-00061"
+      ],
+      "description": "Vendor name 'Zensar Technlogies Ltd' misspelled vs master 'Zensar Technologies Ltd'",
+      "reported_value": "Zensar Technlogies Ltd",
+      "correct_value": "Zensar Technologies Ltd"
+    },
+    {
+      "finding_id": "F-114",
+      "category": "vendor_name_typo",
+      "pages": [
+        182
+      ],
+      "document_refs": [
+        "INV-2025-00185"
+      ],
+      "description": "Vendor name 'Happiest Minds Technologies Ltd' misspelled vs master 'Happiest Minds Technologies Lt'",
+      "reported_value": "Happiest Minds Technologies Ltd",
+      "correct_value": "Happiest Minds Technologies Lt"
+    },
+    {
+      "finding_id": "F-115",
+      "category": "vendor_name_typo",
+      "pages": [
+        208
+      ],
+      "document_refs": [
+        "INV-2025-00057"
+      ],
+      "description": "Vendor name 'Tech Mahinrda Ltd' misspelled vs master 'Tech Mahindra Ltd'",
+      "reported_value": "Tech Mahinrda Ltd",
+      "correct_value": "Tech Mahindra Ltd"
+    },
+    {
+      "finding_id": "F-116",
+      "category": "vendor_name_typo",
+      "pages": [
+        234
+      ],
+      "document_refs": [
+        "INV-2025-00056"
+      ],
+      "description": "Vendor name 'Larsen & Tourbo Ltd' misspelled vs master 'Larsen & Toubro Ltd'",
+      "reported_value": "Larsen & Tourbo Ltd",
+      "correct_value": "Larsen & Toubro Ltd"
+    },
+    {
+      "finding_id": "F-117",
+      "category": "vendor_name_typo",
+      "pages": [
+        250
+      ],
+      "document_refs": [
+        "INV-2025-00059"
+      ],
+      "description": "Vendor name 'Mphaises Ltd' misspelled vs master 'Mphasis Ltd'",
+      "reported_value": "Mphaises Ltd",
+      "correct_value": "Mphasis Ltd"
+    },
+    {
+      "finding_id": "F-118",
+      "category": "vendor_name_typo",
+      "pages": [
+        252
+      ],
+      "document_refs": [
+        "INV-2025-00184"
+      ],
+      "description": "Vendor name 'Happiest Minds Technologies Ltd' misspelled vs master 'Happiest Minds Technologies Lt'",
+      "reported_value": "Happiest Minds Technologies Ltd",
+      "correct_value": "Happiest Minds Technologies Lt"
+    },
+    {
+      "finding_id": "F-119",
+      "category": "vendor_name_typo",
+      "pages": [
+        349
+      ],
+      "document_refs": [
+        "INV-2025-00063"
+      ],
+      "description": "Vendor name 'Infossys Ltd' misspelled vs master 'Infosys Ltd'",
+      "reported_value": "Infossys Ltd",
+      "correct_value": "Infosys Ltd"
+    },
+    {
+      "finding_id": "F-120",
+      "category": "vendor_name_typo",
+      "pages": [
+        373
+      ],
+      "document_refs": [
+        "INV-2025-00183"
+      ],
+      "description": "Vendor name 'Happiest Minds Technologies Ltd' misspelled vs master 'Happiest Minds Technologies Lt'",
+      "reported_value": "Happiest Minds Technologies Ltd",
+      "correct_value": "Happiest Minds Technologies Lt"
+    },
+    {
+      "finding_id": "F-121",
+      "category": "vendor_name_typo",
+      "pages": [
+        396
+      ],
+      "document_refs": [
+        "INV-2025-00064"
+      ],
+      "description": "Vendor name 'HCL Technolgoies Ltd' misspelled vs master 'HCL Technologies Ltd'",
+      "reported_value": "HCL Technolgoies Ltd",
+      "correct_value": "HCL Technologies Ltd"
+    },
+    {
+      "finding_id": "F-122",
+      "category": "vendor_name_typo",
+      "pages": [
+        431
+      ],
+      "document_refs": [
+        "INV-2025-00065"
+      ],
+      "description": "Vendor name 'Brittania Industries Ltd' misspelled vs master 'Britannia Industries Ltd'",
+      "reported_value": "Brittania Industries Ltd",
+      "correct_value": "Britannia Industries Ltd"
+    },
+    {
+      "finding_id": "F-123",
+      "category": "vendor_name_typo",
+      "pages": [
+        453
+      ],
+      "document_refs": [
+        "INV-2025-00060"
+      ],
+      "description": "Vendor name 'Coforgr Ltd' misspelled vs master 'Coforge Ltd'",
+      "reported_value": "Coforgr Ltd",
+      "correct_value": "Coforge Ltd"
+    },
+    {
+      "finding_id": "F-124",
+      "category": "vendor_name_typo",
+      "pages": [
+        506
+      ],
+      "document_refs": [
+        "INV-2025-00062"
+      ],
+      "description": "Vendor name 'Wripo Ltd' misspelled vs master 'Wipro Ltd'",
+      "reported_value": "Wripo Ltd",
+      "correct_value": "Wipro Ltd"
+    },
+    {
+      "finding_id": "F-125",
+      "category": "vendor_name_typo",
+      "pages": [
+        601
+      ],
+      "document_refs": [
+        "INV-2025-00058"
+      ],
+      "description": "Vendor name 'Persistant Systems Ltd' misspelled vs master 'Persistent Systems Ltd'",
+      "reported_value": "Persistant Systems Ltd",
+      "correct_value": "Persistent Systems Ltd"
+    },
+    {
+      "finding_id": "F-126",
+      "category": "double_payment",
+      "pages": [
+        836,
+        847
+      ],
+      "document_refs": [
+        "BS-2025-00002",
+        "BS-2025-00008"
+      ],
+      "description": "Duplicate payment of 51039.59 to 'Payment to Godrej Consumer Pro' in BS-2025-00002 and BS-2025-00008",
+      "reported_value": "51039.59 (twice)",
+      "correct_value": "51039.59 (once)"
+    },
+    {
+      "finding_id": "F-127",
+      "category": "double_payment",
+      "pages": [
+        838,
+        848
+      ],
+      "document_refs": [
+        "BS-2025-00003",
+        "BS-2025-00009"
+      ],
+      "description": "Duplicate payment of 66714.19 to 'Payment to Axis Bank Ltd' in BS-2025-00003 and BS-2025-00009",
+      "reported_value": "66714.19 (twice)",
+      "correct_value": "66714.19 (once)"
+    },
+    {
+      "finding_id": "F-128",
+      "category": "double_payment",
+      "pages": [
+        840,
+        850
+      ],
+      "document_refs": [
+        "BS-2025-00004",
+        "BS-2025-00010"
+      ],
+      "description": "Duplicate payment of 57165.49 to 'Payment to Mphasis Ltd' in BS-2025-00004 and BS-2025-00010",
+      "reported_value": "57165.49 (twice)",
+      "correct_value": "57165.49 (once)"
+    },
+    {
+      "finding_id": "F-129",
+      "category": "double_payment",
+      "pages": [
+        842,
+        852
+      ],
+      "document_refs": [
+        "BS-2025-00005",
+        "BS-2025-00011"
+      ],
+      "description": "Duplicate payment of 39300.50 to 'Payment to Hindustan Unilever' in BS-2025-00005 and BS-2025-00011",
+      "reported_value": "39300.50 (twice)",
+      "correct_value": "39300.50 (once)"
+    },
+    {
+      "finding_id": "F-130",
+      "category": "ifsc_mismatch",
+      "pages": [
+        108
+      ],
+      "document_refs": [
+        "INV-2025-00067"
+      ],
+      "description": "IFSC on invoice HDFC0001234 \u2260 master IFSC UBIN07846634 for Dabur India Ltd",
+      "reported_value": "HDFC0001234",
+      "correct_value": "UBIN07846634"
+    },
+    {
+      "finding_id": "F-131",
+      "category": "ifsc_mismatch",
+      "pages": [
+        165,
+        166
+      ],
+      "document_refs": [
+        "INV-2025-00066"
+      ],
+      "description": "IFSC on invoice HDFC0001234 \u2260 master IFSC UTIB09581543 for HCL Technologies Ltd",
+      "reported_value": "HDFC0001234",
+      "correct_value": "UTIB09581543"
+    },
+    {
+      "finding_id": "F-132",
+      "category": "ifsc_mismatch",
+      "pages": [
+        167,
+        168
+      ],
+      "document_refs": [
+        "INV-2025-00068"
+      ],
+      "description": "IFSC on invoice HDFC0001234 \u2260 master IFSC ICIC04391535 for ABB India Ltd",
+      "reported_value": "HDFC0001234",
+      "correct_value": "ICIC04391535"
+    },
+    {
+      "finding_id": "F-133",
+      "category": "ifsc_mismatch",
+      "pages": [
+        221
+      ],
+      "document_refs": [
+        "INV-2025-00070"
+      ],
+      "description": "IFSC on invoice HDFC0001234 \u2260 master IFSC KKBK02020043 for Tech Mahindra Ltd",
+      "reported_value": "HDFC0001234",
+      "correct_value": "KKBK02020043"
+    },
+    {
+      "finding_id": "F-134",
+      "category": "ifsc_mismatch",
+      "pages": [
+        352
+      ],
+      "document_refs": [
+        "INV-2025-00069"
+      ],
+      "description": "IFSC on invoice HDFC0001234 \u2260 master IFSC PUNB00205095 for ITC Ltd",
+      "reported_value": "HDFC0001234",
+      "correct_value": "PUNB00205095"
+    },
+    {
+      "finding_id": "F-135",
+      "category": "duplicate_expense",
+      "pages": [
+        897,
+        960
+      ],
+      "document_refs": [
+        "EXP-2025-00047",
+        "EXP-2025-00045"
+      ],
+      "description": "Expense 'Sheraton Ahmedabad - 2 night' on 2025-01-04 (9433.34) in both EXP-2025-00047 and EXP-2025-00045",
+      "reported_value": "9433.34 (twice)",
+      "correct_value": "9433.34 (once)"
+    },
+    {
+      "finding_id": "F-136",
+      "category": "duplicate_expense",
+      "pages": [
+        898,
+        992
+      ],
+      "document_refs": [
+        "EXP-2025-00039",
+        "EXP-2025-00041"
+      ],
+      "description": "Expense 'Radisson Kolkata - 2 nights' on 2025-07-17 (24684.11) in both EXP-2025-00039 and EXP-2025-00041",
+      "reported_value": "24684.11 (twice)",
+      "correct_value": "24684.11 (once)"
+    },
+    {
+      "finding_id": "F-137",
+      "category": "duplicate_expense",
+      "pages": [
+        900,
+        931
+      ],
+      "document_refs": [
+        "EXP-2025-00020",
+        "EXP-2025-00019"
+      ],
+      "description": "Expense 'Software License - Delhi' on 2025-06-09 (14309.98) in both EXP-2025-00020 and EXP-2025-00019",
+      "reported_value": "14309.98 (twice)",
+      "correct_value": "14309.98 (once)"
+    },
+    {
+      "finding_id": "F-138",
+      "category": "duplicate_expense",
+      "pages": [
+        902,
+        927
+      ],
+      "document_refs": [
+        "EXP-2025-00013",
+        "EXP-2025-00014"
+      ],
+      "description": "Expense 'Parking - Ahmedabad' on 2025-01-02 (10385.17) in both EXP-2025-00013 and EXP-2025-00014",
+      "reported_value": "10385.17 (twice)",
+      "correct_value": "10385.17 (once)"
+    },
+    {
+      "finding_id": "F-139",
+      "category": "duplicate_expense",
+      "pages": [
+        915,
+        951
+      ],
+      "document_refs": [
+        "EXP-2025-00025",
+        "EXP-2025-00024"
+      ],
+      "description": "Expense 'Oberoi Delhi - 2 nights' on 2025-02-18 (10864.19) in both EXP-2025-00025 and EXP-2025-00024",
+      "reported_value": "10864.19 (twice)",
+      "correct_value": "10864.19 (once)"
+    },
+    {
+      "finding_id": "F-140",
+      "category": "duplicate_expense",
+      "pages": [
+        925,
+        989
+      ],
+      "document_refs": [
+        "EXP-2025-00005",
+        "EXP-2025-00006"
+      ],
+      "description": "Expense 'Professional Membership - De' on 2025-03-28 (7350.63) in both EXP-2025-00005 and EXP-2025-00006",
+      "reported_value": "7350.63 (twice)",
+      "correct_value": "7350.63 (once)"
+    },
+    {
+      "finding_id": "F-141",
+      "category": "duplicate_expense",
+      "pages": [
+        929,
+        945
+      ],
+      "document_refs": [
+        "EXP-2025-00029",
+        "EXP-2025-00028"
+      ],
+      "description": "Expense 'ITC Bangalore - 2 nights' on 2025-06-10 (24020.00) in both EXP-2025-00029 and EXP-2025-00028",
+      "reported_value": "24020.00 (twice)",
+      "correct_value": "24020.00 (once)"
+    },
+    {
+      "finding_id": "F-142",
+      "category": "duplicate_expense",
+      "pages": [
+        933,
+        961
+      ],
+      "document_refs": [
+        "EXP-2025-00032",
+        "EXP-2025-00031"
+      ],
+      "description": "Expense 'Leela Chennai - 2 nights' on 2025-04-12 (18071.84) in both EXP-2025-00032 and EXP-2025-00031",
+      "reported_value": "18071.84 (twice)",
+      "correct_value": "18071.84 (once)"
+    },
+    {
+      "finding_id": "F-143",
+      "category": "duplicate_expense",
+      "pages": [
+        948,
+        996
+      ],
+      "document_refs": [
+        "EXP-2025-00018",
+        "EXP-2025-00017"
+      ],
+      "description": "Expense 'Courier/Postage - Lucknow' on 2025-01-10 (11147.16) in both EXP-2025-00018 and EXP-2025-00017",
+      "reported_value": "11147.16 (twice)",
+      "correct_value": "11147.16 (once)"
+    },
+    {
+      "finding_id": "F-144",
+      "category": "duplicate_expense",
+      "pages": [
+        958,
+        962
+      ],
+      "document_refs": [
+        "EXP-2025-00015",
+        "EXP-2025-00016"
+      ],
+      "description": "Expense 'Hotel Accommodation - Kolkat' on 2025-02-24 (10251.93) in both EXP-2025-00015 and EXP-2025-00016",
+      "reported_value": "10251.93 (twice)",
+      "correct_value": "10251.93 (once)"
+    },
+    {
+      "finding_id": "F-145",
+      "category": "duplicate_expense",
+      "pages": [
+        968,
+        981
+      ],
+      "document_refs": [
+        "EXP-2025-00043",
+        "EXP-2025-00042"
+      ],
+      "description": "Expense 'Hilton Gurgaon - 2 nights' on 2025-05-26 (12178.53) in both EXP-2025-00043 and EXP-2025-00042",
+      "reported_value": "12178.53 (twice)",
+      "correct_value": "12178.53 (once)"
+    },
+    {
+      "finding_id": "F-146",
+      "category": "duplicate_expense",
+      "pages": [
+        976,
+        995
+      ],
+      "document_refs": [
+        "EXP-2025-00022",
+        "EXP-2025-00021"
+      ],
+      "description": "Expense 'Taj Mumbai - 2 nights' on 2025-07-21 (10628.98) in both EXP-2025-00022 and EXP-2025-00021",
+      "reported_value": "10628.98 (twice)",
+      "correct_value": "10628.98 (once)"
+    },
+    {
+      "finding_id": "F-147",
+      "category": "date_cascade",
+      "pages": [
+        7
+      ],
+      "document_refs": [
+        "INV-2025-00097",
+        "PO-2025-00024"
+      ],
+      "description": "Invoice date 2025-12-05 is before PO date 2025-12-20 (gap: 15 days)",
+      "reported_value": "2025-12-05",
+      "correct_value": ">= 2025-12-20"
+    },
+    {
+      "finding_id": "F-148",
+      "category": "date_cascade",
+      "pages": [
+        25
+      ],
+      "document_refs": [
+        "INV-2025-00075",
+        "PO-2025-00020"
+      ],
+      "description": "Invoice date 2025-03-14 is before PO date 2025-03-19 (gap: 5 days)",
+      "reported_value": "2025-03-14",
+      "correct_value": ">= 2025-03-19"
+    },
+    {
+      "finding_id": "F-149",
+      "category": "date_cascade",
+      "pages": [
+        65
+      ],
+      "document_refs": [
+        "INV-2025-00117",
+        "PO-2025-00028"
+      ],
+      "description": "Invoice date 2025-01-20 is before PO date 2025-01-21 (gap: 1 days)",
+      "reported_value": "2025-01-20",
+      "correct_value": ">= 2025-01-21"
+    },
+    {
+      "finding_id": "F-150",
+      "category": "date_cascade",
+      "pages": [
+        112
+      ],
+      "document_refs": [
+        "INV-2025-00115",
+        "PO-2025-00027"
+      ],
+      "description": "Invoice date 2025-11-20 is before PO date 2025-12-20 (gap: 30 days)",
+      "reported_value": "2025-11-20",
+      "correct_value": ">= 2025-12-20"
+    },
+    {
+      "finding_id": "F-151",
+      "category": "date_cascade",
+      "pages": [
+        153
+      ],
+      "document_refs": [
+        "INV-2025-00215",
+        "PO-2025-00055"
+      ],
+      "description": "Invoice date 2025-02-17 is before PO date 2025-03-12 (gap: 23 days)",
+      "reported_value": "2025-02-17",
+      "correct_value": ">= 2025-03-12"
+    },
+    {
+      "finding_id": "F-152",
+      "category": "date_cascade",
+      "pages": [
+        173
+      ],
+      "document_refs": [
+        "INV-2025-00074",
+        "PO-2025-00019"
+      ],
+      "description": "Invoice date 2025-03-13 is before PO date 2025-03-18 (gap: 5 days)",
+      "reported_value": "2025-03-13",
+      "correct_value": ">= 2025-03-18"
+    },
+    {
+      "finding_id": "F-153",
+      "category": "date_cascade",
+      "pages": [
+        198
+      ],
+      "document_refs": [
+        "INV-2025-00200",
+        "PO-2025-00050"
+      ],
+      "description": "Invoice date 2025-03-18 is before PO date 2025-03-20 (gap: 2 days)",
+      "reported_value": "2025-03-18",
+      "correct_value": ">= 2025-03-20"
+    },
+    {
+      "finding_id": "F-154",
+      "category": "date_cascade",
+      "pages": [
+        237
+      ],
+      "document_refs": [
+        "INV-2025-00109",
+        "PO-2025-00026"
+      ],
+      "description": "Invoice date 2025-02-08 is before PO date 2025-03-06 (gap: 26 days)",
+      "reported_value": "2025-02-08",
+      "correct_value": ">= 2025-03-06"
+    },
+    {
+      "finding_id": "F-155",
+      "category": "date_cascade",
+      "pages": [
+        268
+      ],
+      "document_refs": [
+        "INV-2025-00203",
+        "PO-2025-00051"
+      ],
+      "description": "Invoice date 2025-07-03 is before PO date 2025-07-23 (gap: 20 days)",
+      "reported_value": "2025-07-03",
+      "correct_value": ">= 2025-07-23"
+    },
+    {
+      "finding_id": "F-156",
+      "category": "date_cascade",
+      "pages": [
+        271
+      ],
+      "document_refs": [
+        "INV-2025-00087",
+        "PO-2025-00022"
+      ],
+      "description": "Invoice date 2025-04-30 is before PO date 2025-05-10 (gap: 10 days)",
+      "reported_value": "2025-04-30",
+      "correct_value": ">= 2025-05-10"
+    },
+    {
+      "finding_id": "F-157",
+      "category": "date_cascade",
+      "pages": [
+        322
+      ],
+      "document_refs": [
+        "INV-2025-00071",
+        "PO-2025-00016"
+      ],
+      "description": "Invoice date 2025-03-10 is before PO date 2025-03-15 (gap: 5 days)",
+      "reported_value": "2025-03-10",
+      "correct_value": ">= 2025-03-15"
+    },
+    {
+      "finding_id": "F-158",
+      "category": "date_cascade",
+      "pages": [
+        362
+      ],
+      "document_refs": [
+        "INV-2025-00073",
+        "PO-2025-00018"
+      ],
+      "description": "Invoice date 2025-03-12 is before PO date 2025-03-17 (gap: 5 days)",
+      "reported_value": "2025-03-12",
+      "correct_value": ">= 2025-03-17"
+    },
+    {
+      "finding_id": "F-159",
+      "category": "date_cascade",
+      "pages": [
+        365
+      ],
+      "document_refs": [
+        "INV-2025-00072",
+        "PO-2025-00017"
+      ],
+      "description": "Invoice date 2025-03-11 is before PO date 2025-03-16 (gap: 5 days)",
+      "reported_value": "2025-03-11",
+      "correct_value": ">= 2025-03-16"
+    },
+    {
+      "finding_id": "F-160",
+      "category": "date_cascade",
+      "pages": [
+        535
+      ],
+      "document_refs": [
+        "INV-2025-00188",
+        "PO-2025-00046"
+      ],
+      "description": "Invoice date 2025-05-19 is before PO date 2025-06-05 (gap: 17 days)",
+      "reported_value": "2025-05-19",
+      "correct_value": ">= 2025-06-05"
+    },
+    {
+      "finding_id": "F-161",
+      "category": "date_cascade",
+      "pages": [
+        665
+      ],
+      "document_refs": [
+        "INV-2025-00174",
+        "PO-2025-00042"
+      ],
+      "description": "Invoice date 2025-01-09 is before PO date 2025-01-18 (gap: 9 days)",
+      "reported_value": "2025-01-09",
+      "correct_value": ">= 2025-01-18"
+    },
+    {
+      "finding_id": "F-162",
+      "category": "gstin_state_mismatch",
+      "pages": [
+        76
+      ],
+      "document_refs": [
+        "INV-2025-00076"
+      ],
+      "description": "GSTIN 01MOVHL9365E1ZJ has state code 01 (Jammu and Kashmir) but vendor 'Maruti Suzuki India Ltd' is in Telangana (expected code 36)",
+      "reported_value": "01 (Jammu and Kashmir)",
+      "correct_value": "36 (Telangana)"
+    },
+    {
+      "finding_id": "F-163",
+      "category": "gstin_state_mismatch",
+      "pages": [
+        178
+      ],
+      "document_refs": [
+        "INV-2025-00078"
+      ],
+      "description": "GSTIN 14YGGCU2946D1Z7 has state code 14 (Manipur) but vendor 'Coforge Ltd' is in Delhi (expected code 07)",
+      "reported_value": "14 (Manipur)",
+      "correct_value": "07 (Delhi)"
+    },
+    {
+      "finding_id": "F-164",
+      "category": "gstin_state_mismatch",
+      "pages": [
+        264
+      ],
+      "document_refs": [
+        "INV-2025-00079"
+      ],
+      "description": "GSTIN 36STKHF8213R2ZN has state code 36 (Telangana) but vendor 'Siemens Ltd' is in Delhi (expected code 07)",
+      "reported_value": "36 (Telangana)",
+      "correct_value": "07 (Delhi)"
+    },
+    {
+      "finding_id": "F-165",
+      "category": "gstin_state_mismatch",
+      "pages": [
+        380
+      ],
+      "document_refs": [
+        "INV-2025-00077"
+      ],
+      "description": "GSTIN 02KBAHR9713I2ZT has state code 02 (Himachal Pradesh) but vendor 'Bharat Electronics Ltd' is in Gujarat (expected code 24)",
+      "reported_value": "02 (Himachal Pradesh)",
+      "correct_value": "24 (Gujarat)"
+    },
+    {
+      "finding_id": "F-166",
+      "category": "gstin_state_mismatch",
+      "pages": [
+        456
+      ],
+      "document_refs": [
+        "INV-2025-00080"
+      ],
+      "description": "GSTIN 29ISTPJ7395K1Z9 has state code 29 (Karnataka) but vendor 'ICICI Bank Ltd' is in Maharashtra (expected code 27)",
+      "reported_value": "29 (Karnataka)",
+      "correct_value": "27 (Maharashtra)"
+    },
+    {
+      "finding_id": "F-167",
+      "category": "arithmetic_error",
+      "pages": [
+        511,
+        512
+      ],
+      "document_refs": [
+        "INV-2025-00005"
+      ],
+      "description": "Subtotal 2567947.15 \u2260 sum of line items 2568947.15",
+      "reported_value": "2567947.15",
+      "correct_value": "2568947.15"
+    },
+    {
+      "finding_id": "F-168",
+      "category": "arithmetic_error",
+      "pages": [
+        634,
+        635
+      ],
+      "document_refs": [
+        "INV-2025-00006"
+      ],
+      "description": "Subtotal 3988029.70 \u2260 sum of line items 3989029.70",
+      "reported_value": "3988029.70",
+      "correct_value": "3989029.70"
+    },
+    {
+      "finding_id": "F-169",
+      "category": "arithmetic_error",
+      "pages": [
+        49,
+        50
+      ],
+      "document_refs": [
+        "INV-2025-00010"
+      ],
+      "description": "Grand total 4737744.28 \u2260 subtotal 4129132.09 + tax 607612.18 = 4736744.27",
+      "reported_value": "4737744.28",
+      "correct_value": "4736744.27"
+    },
+    {
+      "finding_id": "F-170",
+      "category": "arithmetic_error",
+      "pages": [
+        62
+      ],
+      "document_refs": [
+        "INV-2025-00011"
+      ],
+      "description": "Grand total 1016845.55 \u2260 subtotal 860886.06 + tax 154959.48 = 1015845.54",
+      "reported_value": "1016845.55",
+      "correct_value": "1015845.54"
+    },
+    {
+      "finding_id": "F-171",
+      "category": "arithmetic_error",
+      "pages": [
+        302,
+        303
+      ],
+      "document_refs": [
+        "INV-2025-00012"
+      ],
+      "description": "Grand total 2754335.07 \u2260 subtotal 2504841.94 + tax 248493.14 = 2753335.08",
+      "reported_value": "2754335.07",
+      "correct_value": "2753335.08"
+    },
+    {
+      "finding_id": "F-172",
+      "category": "billing_typo",
+      "pages": [
+        647
+      ],
+      "document_refs": [
+        "INV-2025-00002"
+      ],
+      "description": "Line 1 (Catering Services - Corporate Events): qty 36.1 \u00d7 rate 1106.11 = 39930.57 but amount shows 40930.57",
+      "reported_value": "40930.57",
+      "correct_value": "39930.57"
+    },
+    {
+      "finding_id": "F-173",
+      "category": "duplicate_line_item",
+      "pages": [
+        509,
+        510
+      ],
+      "document_refs": [
+        "INV-2025-00017"
+      ],
+      "description": "Line item 'IT Infrastructure Support' (qty=5.0, rate=12000.00) appears 2 times",
+      "reported_value": "60000.00 \u00d7 2",
+      "correct_value": "60000.00 \u00d7 1"
+    },
+    {
+      "finding_id": "F-174",
+      "category": "duplicate_line_item",
+      "pages": [
+        482,
+        483,
+        484
+      ],
+      "document_refs": [
+        "INV-2025-00018"
+      ],
+      "description": "Line item 'Cloud Migration Consulting' (qty=3.0, rate=25000.00) appears 2 times",
+      "reported_value": "75000.00 \u00d7 2",
+      "correct_value": "75000.00 \u00d7 1"
+    },
+    {
+      "finding_id": "F-175",
+      "category": "duplicate_line_item",
+      "pages": [
+        371,
+        372
+      ],
+      "document_refs": [
+        "INV-2025-00019"
+      ],
+      "description": "Line item 'Cybersecurity Audit' (qty=2.0, rate=18000.00) appears 2 times",
+      "reported_value": "36000.00 \u00d7 2",
+      "correct_value": "36000.00 \u00d7 1"
+    },
+    {
+      "finding_id": "F-176",
+      "category": "duplicate_line_item",
+      "pages": [
+        79,
+        80
+      ],
+      "document_refs": [
+        "INV-2025-00020"
+      ],
+      "description": "Line item 'Database Administration' (qty=10.0, rate=4500.00) appears 2 times",
+      "reported_value": "45000.00 \u00d7 2",
+      "correct_value": "45000.00 \u00d7 1"
+    },
+    {
+      "finding_id": "F-177",
+      "category": "invalid_date",
+      "pages": [
+        51
+      ],
+      "document_refs": [
+        "INV-2025-00030"
+      ],
+      "description": "Invalid date 2025-09-31: day 31 impossible for month 9 in 2025-09-31",
+      "reported_value": "2025-09-31",
+      "correct_value": "N/A"
+    },
+    {
+      "finding_id": "F-178",
+      "category": "invalid_date",
+      "pages": [
+        77
+      ],
+      "document_refs": [
+        "INV-2025-00027"
+      ],
+      "description": "Invalid date 2025-02-29: Feb 29 in non-leap year 2025",
+      "reported_value": "2025-02-29",
+      "correct_value": "N/A"
+    },
+    {
+      "finding_id": "F-179",
+      "category": "invalid_date",
+      "pages": [
+        209
+      ],
+      "document_refs": [
+        "INV-2025-00029"
+      ],
+      "description": "Invalid date 2025-07-32: day 32 impossible for month 7 in 2025-07-32",
+      "reported_value": "2025-07-32",
+      "correct_value": "N/A"
+    },
+    {
+      "finding_id": "F-180",
+      "category": "invalid_date",
+      "pages": [
+        226
+      ],
+      "document_refs": [
+        "INV-2025-00024"
+      ],
+      "description": "Invalid date 2025-06-31: day 31 impossible for month 6 in 2025-06-31",
+      "reported_value": "2025-06-31",
+      "correct_value": "N/A"
+    },
+    {
+      "finding_id": "F-181",
+      "category": "invalid_date",
+      "pages": [
+        231
+      ],
+      "document_refs": [
+        "INV-2025-00025"
+      ],
+      "description": "Invalid date 2025-09-31: day 31 impossible for month 9 in 2025-09-31",
+      "reported_value": "2025-09-31",
+      "correct_value": "N/A"
+    },
+    {
+      "finding_id": "F-182",
+      "category": "invalid_date",
+      "pages": [
+        266
+      ],
+      "document_refs": [
+        "INV-2025-00021"
+      ],
+      "description": "Invalid date 2025-02-31: day 31 impossible for month 2 in 2025-02-31",
+      "reported_value": "2025-02-31",
+      "correct_value": "N/A"
+    },
+    {
+      "finding_id": "F-183",
+      "category": "invalid_date",
+      "pages": [
+        378
+      ],
+      "document_refs": [
+        "INV-2025-00028"
+      ],
+      "description": "Invalid date 2025-05-00: day 00 in 2025-05-00",
+      "reported_value": "2025-05-00",
+      "correct_value": "N/A"
+    },
+    {
+      "finding_id": "F-184",
+      "category": "invalid_date",
+      "pages": [
+        414
+      ],
+      "document_refs": [
+        "INV-2025-00022"
+      ],
+      "description": "Invalid date 2025-02-30: day 30 impossible for month 2 in 2025-02-30",
+      "reported_value": "2025-02-30",
+      "correct_value": "N/A"
+    },
+    {
+      "finding_id": "F-185",
+      "category": "invalid_date",
+      "pages": [
+        436
+      ],
+      "document_refs": [
+        "INV-2025-00023"
+      ],
+      "description": "Invalid date 2025-04-31: day 31 impossible for month 4 in 2025-04-31",
+      "reported_value": "2025-04-31",
+      "correct_value": "N/A"
+    },
+    {
+      "finding_id": "F-186",
+      "category": "invalid_date",
+      "pages": [
+        552
+      ],
+      "document_refs": [
+        "INV-2025-00026"
+      ],
+      "description": "Invalid date 2025-11-31: day 31 impossible for month 11 in 2025-11-31",
+      "reported_value": "2025-11-31",
+      "correct_value": "N/A"
+    },
+    {
+      "finding_id": "F-187",
+      "category": "wrong_tax_rate",
+      "pages": [
+        371,
+        372
+      ],
+      "document_refs": [
+        "INV-2025-00019"
+      ],
+      "description": "Tax charged 38439.44 (7.2%) \u2260 expected 96144.61 (18.0%) based on HSN codes",
+      "reported_value": "7.2%",
+      "correct_value": "18.0%"
+    }
+  ]
+}
