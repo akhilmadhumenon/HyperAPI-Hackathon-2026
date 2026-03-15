@@ -7,7 +7,7 @@ import re
 from typing import List, Dict, Tuple, Optional
 from tqdm import tqdm
 
-from src.models import PageData, Document, DocType
+from .models import PageData, Document, DocType
 
 
 def extract_all_pages(pdf_path: str, max_pages: int = None) -> List[PageData]:

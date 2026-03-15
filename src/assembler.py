@@ -5,7 +5,7 @@ Handles deduplication, confidence filtering, and ID assignment.
 import json
 from typing import List, Dict
 from collections import defaultdict
-from src.models import Finding
+from .models import Finding
 
 
 def deduplicate_findings(findings: List[Finding]) -> List[Finding]:

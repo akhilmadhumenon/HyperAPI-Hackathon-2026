@@ -3,7 +3,7 @@ Vendor Master — authoritative list of 35 registered vendors.
 Extracted from information.pdf (pages 3-4).
 """
 
-from src.models import VendorEntry
+from .models import VendorEntry
 
 # GSTIN state code to state name mapping (Indian states)
 GSTIN_STATE_CODES = {

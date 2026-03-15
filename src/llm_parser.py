@@ -6,12 +6,12 @@ import os
 import json
 import time
 from typing import List, Optional, Dict, Any
-from src.models import (
+from .models import (
     Document, DocType, Invoice, LineItem, PurchaseOrder, POLineItem,
     BankStatement, BankTransaction, ExpenseReport, ExpenseItem,
     CreditDebitNote
 )
-from src.parser import parse_number
+from .parser import parse_number
 
 
 def get_openai_client():

@@ -9,7 +9,7 @@ Tuned for the actual format found in the gauntlet PDF:
 """
 import re
 from typing import List, Optional
-from src.models import (
+from .models import (
     Document, DocType, Invoice, LineItem, PurchaseOrder, POLineItem,
     BankStatement, BankTransaction, ExpenseReport, ExpenseItem,
     CreditDebitNote
@@ -291,7 +291,7 @@ def parse_bank_statement(doc: Document) -> BankStatement:
     # Period
     period_match = re.search(r'Period[:\s]*(.+?)\s+to\s+(.+)', text, re.IGNORECASE)
     if period_match:
-        from src.utils import parse_date_to_tuple
+        from .utils import parse_date_to_tuple
         d_tuple = parse_date_to_tuple(period_match.group(1))
         if d_tuple:
             y, m, d = d_tuple

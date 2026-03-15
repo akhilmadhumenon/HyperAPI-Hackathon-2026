@@ -6,12 +6,12 @@ from typing import Dict, List, Optional, Tuple, Set
 from collections import defaultdict
 from rapidfuzz import fuzz, process
 
-from src.models import (
+from .models import (
     Document, DocType, Invoice, PurchaseOrder, BankStatement,
     ExpenseReport, CreditDebitNote
 )
-from src.vendor_master import VENDOR_MASTER, VENDOR_NAMES, VENDOR_BY_NAME
-from src.utils import parse_date_to_tuple
+from .vendor_master import VENDOR_MASTER, VENDOR_NAMES, VENDOR_BY_NAME
+from .utils import parse_date_to_tuple
 
 
 class PORegistry:
