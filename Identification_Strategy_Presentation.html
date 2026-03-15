@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HyperAPI Financial Gauntlet Presentation</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --accent: #38bdf8;
+            --accent-glow: rgba(56, 189, 248, 0.3);
+            --text-main: #f1f5f9;
+            --text-dim: #94a3b8;
+            --success: #10b981;
+            --warning: #f59e0b;
+            --danger: #ef4444;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg);
+            color: var(--text-main);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        header {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background: radial-gradient(circle at center, #1e293b 0%, #0f172a 100%);
+            padding: 2rem;
+        }
+
+        h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 4rem;
+            font-weight: 800;
+            background: linear-gradient(to right, #38bdf8, #818cf8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 1rem;
+            letter-spacing: -0.02em;
+        }
+
+        h2 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2rem;
+            color: var(--text-dim);
+            margin-bottom: 2rem;
+            font-weight: 400;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 4rem 2rem;
+        }
+
+        .slide {
+            background: var(--card-bg);
+            border-radius: 24px;
+            padding: 3rem;
+            margin-bottom: 4rem;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            border: 1px solid rgba(255,255,255,0.05);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .slide:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4), 0 0 20px var(--accent-glow);
+        }
+
+        .slide-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            color: var(--accent);
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .slide-content {
+            font-size: 1.1rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 1.5rem;
+            background: rgba(15, 23, 42, 0.5);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        th, td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+
+        th {
+            background: rgba(56, 189, 248, 0.1);
+            color: var(--accent);
+            font-weight: 600;
+        }
+
+        .tier-tag {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 999px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        .easy { background: rgba(16, 185, 129, 0.2); color: #34d399; }
+        .medium { background: rgba(245, 158, 11, 0.2); color: #fbbf24; }
+        .evil { background: rgba(239, 68, 68, 0.2); color: #f87171; }
+
+        ul {
+            list-style: none;
+            margin-top: 1rem;
+        }
+
+        li {
+            margin-bottom: 0.8rem;
+            position: relative;
+            padding-left: 1.5rem;
+        }
+
+        li::before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: var(--accent);
+        }
+
+        .highlight {
+            color: var(--accent);
+            font-weight: 600;
+        }
+
+        footer {
+            text-align: center;
+            padding: 4rem;
+            color: var(--text-dim);
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Financial Gauntlet Engine</h1>
+    <h2>AI-Driven identification & Forensic Analysis</h2>
+    <div style="margin-top: 2rem;">
+        <span class="tier-tag medium" style="font-size: 1rem;">Team baby_sharks</span>
+    </div>
+</header>
+
+<div class="container">
+    
+    <div class="slide">
+        <div class="slide-title">Mission Objective</div>
+        <div class="slide-content">
+            <p>Build a high-precision document intelligence pipeline to detect 20 categories of financial inconsistencies (“needles”) within a 1,000-page dataset.</p>
+            <ul>
+                <li><span class="highlight">Scale:</span> 1,000 pages, 750 documents, 200 deliberate errors.</li>
+                <li><span class="highlight">Precision:</span> Zero-tolerance for false positives (-0.5 point penalty).</li>
+                <li><span class="highlight">Speed:</span> Aggressive caching to bypass API bottlenecks.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title">System Architecture</div>
+        <div class="slide-content">
+            <p>A hybrid engine separating <strong>Inference</strong> from <strong>Validation</strong>.</p>
+            <div style="margin: 2rem 0; padding: 1.5rem; background: #0f172a; border-radius: 12px; font-family: monospace; color: #38bdf8;">
+                PDF -> Deterministic Splitting -> HyperAPI Extraction -> Normalization -> SQLite Relational DB -> SQL Validation Engine -> Submission JSON
+            </div>
+            <p>By transforming messy pixels into a Relational Database, we treat fraud detection as a <strong>Data Query</strong> problem.</p>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title">The Role of AI</div>
+        <div class="slide-content">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Capability</th>
+                        <th>Purpose</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>Classification</td><td>Auto-identifying Invoices vs POs vs Bank Statements</td></tr>
+                    <tr><td>Table Extraction</td><td>Capturing multi-page line items with HSN/GST granularity</td></tr>
+                    <tr><td>Entity Recognition</td><td>Normalizing GSTIN, IFSC, and Vendor identities</td></tr>
+                    <tr><td>Semantic Linking</td><td>Mapping Invoice ↔ PO references across 1000 pages</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title">Detection Strategy: Easy</div>
+        <div class="slide-content">
+            <span class="tier-tag easy">Single Document Logic</span>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Logic</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>Arithmetic Error</td><td>Cross-checks qty*rate=amount and subtotal+tax=total</td></tr>
+                    <tr><td>Billing Typo</td><td>Detects .30 vs .50 hour multipliers in service billing</td></tr>
+                    <tr><td>Duplicate Line</td><td>Identifies repeated items within a single invoice context</td></tr>
+                    <tr><td>Invalid Date</td><td>Deep check for Feb 31st or non-leap Feb 29ths</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title">Detection Strategy: Medium</div>
+        <div class="slide-content">
+            <span class="tier-tag medium">Two-Document Cross-Reference</span>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Logic</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>PO Mismatch</td><td>Joins Invoices to POs; flags rate/qty variance > 1%</td></tr>
+                    <tr><td>Vendor Typo</td><td>Fuzzy-matches names against the Master Registry (Gold Standard)</td></tr>
+                    <tr><td>Double Payment</td><td>Finds identical payment refs across different bank months</td></tr>
+                    <tr><td>State Mismatch</td><td>Validates GSTIN prefix (State Code) against header address</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title">Detection Strategy: Evil</div>
+        <div class="slide-content">
+            <span class="tier-tag evil">Advanced Fraud Patterns</span>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Logic</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>Qty Accumulation</td><td>SUM(invoices) > 120% of PO Contract Quantity</td></tr>
+                    <tr><td>Price Escalation</td><td>All-invoice sequence shows rate > Contract Rate</td></tr>
+                    <tr><td>Balance Drift</td><td>Chain check: Prev Closing != Next Opening in statements</td></tr>
+                    <tr><td>Circular Ref</td><td>Graph DFS: Loops in Credit/Debit notes without an Invoice root</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="slide-title">Winning Strategies</div>
+        <div class="slide-content">
+            <ul>
+                <li><span class="highlight">Zero False Positives:</span> Manually verified Vendor Master (Pages 3-4) to establish "Structural Truth".</li>
+                <li><span class="highlight">Aggressive Caching:</span> Local segment-based disk storage to survive API timeouts.</li>
+                <li><span class="highlight">Deterministic SQL:</span> Moving logic from brittle Python loops to declarative SQL queries.</li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+<footer>
+    &copy; 2026 Team baby_sharks | HyperAPI Financial Gauntlet
+</footer>
+
+</body>
+</html>
